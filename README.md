@@ -23,6 +23,6 @@ After that course, I'm heading for **ReactJS**, **NodeJS**, **TypeScript**, **Ex
 
 You can reach me through my email address: [ozohenrywk@gmail.com](mailto:ozohenrywk@gmail.com), and on Telegram through: [**@OnyedikachiOzoani**](https://t.me/onyedikachiozoani).
 
-I also have interest for **VueJS** and **Svelte**. 
+I also have interests for **VueJS** and **Svelte**. 
 
 **Check out interesting projects in my repos and feel free to link up with me**
