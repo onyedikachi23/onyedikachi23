@@ -15,14 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Onyedikachi**, a Full stack web aspirant.  
+I'm **Onyedikachi**, a detail-oriented Frontend Web Developer, developing modern website solutions with a customer-first approach using **React**, **Typescript**, and user-friendly **Figma UI/UX** designs to create frontends that enhance the customer experience, with a fundamental knowledge of **Finance and Economics** for prioritizing the needs of the business and support business metrics.
 
-I have a good foundation on **HTML**/**CSS** and **JavaScript**. I recently finished the [Frontend Mentor Roadmap](https://discord.com/channels/824970620529279006/1131865518618460210/1131872426364506282) for **Responsive Web Development** to **VanillaJS solid foundation**. I'm currently advancing my skills on **Algorithms and Data Structures in JavaScript**, and also **Object Oriented Programming (OOP)**, **Functional Programming**, algorithmic thinking, how to work with **web local storage API**, and how to **fetch data using an API** in Javascript.  
+Checkout my skills rating on [GitRoll](https://gitroll.io/profile/u8P8zSPiWPPVsp0RCEmPmzpE9RMA2) 👇:
 
-After that, I'm heading for **ReactJS**, **NodeJS**, **TypeScript**, **ExpressJS**, and other **MERN** technologies.  
+<a href="https://gitroll.io/profile/u8P8zSPiWPPVsp0RCEmPmzpE9RMA2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8P8zSPiWPPVsp0RCEmPmzpE9RMA2" alt="GitRoll Profile Badge"/></a>
 
-You can reach me through my email address: [ozohenrywk@gmail.com](mailto:ozohenrywk@gmail.com), and on Telegram through: [**@OnyedikachiOzoani**](https://t.me/onyedikachiozoani).
+I have a good foundation on **HTML**/**CSS**, **JavaScript** and **React**. You can checkout my [Frontend Mentor profile](https://www.frontendmentor.io/profile/onyedikachi23) to see some of my cool portfolio projects.  
 
-I also have interests for **VueJS** and **Svelte**. 
+I'm currently advancing my **ReactJS** skills by building **React** projects.
+
+I really want to contribute to many **open source projects** and very eager to collaborate with others and contribute to their projects.
+
+Also, I'm aspiring for **NextJS**, **NodeJS**, **ExpressJS**, and other **MERN** technologies.  
+
+You can connect and reach me through: 
+
+<a href="mailto:ozohenrywk@gmail.com" target="_blank"><img src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg" alt="Gmail logo" width="24px" height="24px"/></a> [ozohenrywk@gmail.com](wa.link/xn2w61)
+
+<a href="https://www.linkedin.com/in/onyedikachi23/" target="_blank"><img src="https://asset.brandfetch.io/idJFz6sAsl/idO-lr4BCK.jpeg" alt="LinkedIn logo" width="24px" height="24px"/></a> [Onyedikachi Ozoani](https://www.linkedin.com/in/onyedikachi23/)
+
+<a href="https://x.com/onyedikachi232" target="_blank"><img src="https://asset.brandfetch.io/idS5WhqBbM/idnz5G46Uq.jpeg" alt="X - Twitter logo" width="24px" height="24px"/></a> [@onyedikachi232](https://x.com/onyedikachi232)
+
+<a href="https://stackoverflow.com/users/21363556/onyedikachi23" target="_blank"><img src="https://asset.brandfetch.io/ididrzcc2B/idge1taLhI.png" alt="Stack Overflow logo" width="24px" height="24px"/></a> [@onyedikachi23](https://stackoverflow.com/users/21363556/onyedikachi23)
+
+<a href="https://www.frontendmentor.io/profile/onyedikachi23" target="_blank"><img src="https://asset.brandfetch.io/id-7PJzcYu/idDksQWGNy.jpeg" alt="Frontend Mentor logo" width="24px" height="24px"/></a> [@onyedikachi23](https://www.frontendmentor.io/profile/onyedikachi23)
+
+<a href="wa.link/xn2w61" target="_blank"><img src="https://asset.brandfetch.io/id6Zq084G_/idc8kg0v_f.svg" alt="WhatsApp logo" width="24px" height="24px"/></a> [+2348160836710](wa.link/xn2w61)
+
+<a href="https://t.me/onyedikachi232" target="_blank"><img src="https://asset.brandfetch.io/id68S6e-Gp/id4intND9w.svg" alt="Telegram logo" width="24px" height="24px"/></a> [@onyedikachi232](https://t.me/onyedikachi232)
+
+I also have interests for **Angular**. 
 
 **Check out interesting projects in my repos and feel free to link up with me**
