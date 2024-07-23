@@ -53,7 +53,7 @@ You can connect and reach me through:
 
 <a href="https://www.frontendmentor.io/profile/onyedikachi23" target="_blank"><img src="https://asset.brandfetch.io/id-7PJzcYu/idDksQWGNy.jpeg" alt="Frontend Mentor logo" width="24px" height="24px"/></a>    <a href="https://www.frontendmentor.io/profile/onyedikachi23" target="_blank">@onyedikachi23</a>
 
-<a href="https://wa.me/2348160836710" target="_blank"><img src="https://asset.brandfetch.io/id6Zq084G_/idc8kg0v_f.svg" alt="WhatsApp logo" width="24px" height="24px"/></a>    <a href="https://wa.me/2348160836710" target="_blank">+2348160836710</a>
+<a href="https://wa.me/2348160836710" target="_blank"><img src="https://asset.brandfetch.io/id6Zq084G_/idc8kg0v_f.svg" alt="WhatsApp logo" width="24px" height="24px"/></a>    <a href="https://wa.me/2348160836710" target="_blank">chat on WhatsApp</a>
 
 <a href="https://t.me/onyedikachi232" target="_blank"><img src="https://asset.brandfetch.io/id68S6e-Gp/id4intND9w.svg" alt="Telegram logo" width="24px" height="24px"/></a>    <a href="https://t.me/onyedikachi232" target="_blank">@onyedikachi232</a>
 
