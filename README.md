@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm **Onyedikachi**, a detail-oriented Frontend Web Developer, developing modern website solutions with a customer-first approach using **React**, **Typescript**, and user-friendly **Figma UI/UX** designs to create frontends that enhance the customer experience, with a fundamental knowledge of **Finance and Economics** for prioritizing the needs of the business and support business metrics.  
 
-I'm [open to work](https://www.linkedin.com/in/onyedikachi23) for any Frontend Web Developer Junior roles.
+I'm [open to work](https://www.linkedin.com/in/onyedikachi23) for any Frontend Web Developer Junior and intern roles.
 
 I really want to contribute to many **open source projects** and very eager to collaborate with others and contribute to their projects.
 
