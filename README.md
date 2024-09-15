@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Onyedikachi**, a detail-oriented Frontend Web Developer, developing modern website solutions with a customer-first approach using **React**, **Typescript**, and user-friendly **Figma UI/UX** designs to create frontends that enhance the customer experience, with a fundamental knowledge of **Finance and Economics** for prioritizing the needs of the business and support business metrics.  
+I'm **Onyedikachi**, a detail-oriented Frontend Web Developer, developing modern website solutions with a customer-first approach using **React**, **Typescript**, and user-friendly **Figma UI/UX** designs to create frontends that enhance the customer experience.
+
+I'm currently adding **React Native** + **Expo** to my skills for **_mobile development_**
 
 I'm [open to work](https://www.linkedin.com/in/onyedikachi23) for any Frontend Web Developer Junior and intern roles.
 
