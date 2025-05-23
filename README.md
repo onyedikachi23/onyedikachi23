@@ -1,6 +1,6 @@
 # Hi, I'm Onyedikachi Ozoani
 
-- I've been coding TypeScript/JavaScript primarily for over 3 years.
+- I've been coding TypeScript/JavaScript primarily for over 2 years.
 - I work with React & [React Router](https://reactrouter.com/), React Native & [Expo](https://expo.dev), to build websites and mobile apps.
 - I'm the lead frontend developer at [productpadi.app](https://www.productpadi.app).
 - I'm learning Nest.js and backend dev.
